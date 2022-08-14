@@ -9,3 +9,12 @@ h1{color: blue}
     width: 40%;
     padding: 5px;
   }
+
+  .column1 {
+    float: left;
+    width: 40%;
+    padding: 5px;
+    text-align: justify;
+    padding-top: 3%;
+  }
+
